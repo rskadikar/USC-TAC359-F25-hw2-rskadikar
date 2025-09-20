@@ -1,1 +1,7 @@
-# USC-TAC359-F25-hw2-rskadikar
+# Student Information
+Name: Rachana Kadikar
+Email: kadikar@usc.edu
+# System Preferences
+Platform: MAC
+IDE: Colab
+# 📝 Notes
